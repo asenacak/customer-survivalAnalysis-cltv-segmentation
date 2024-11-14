@@ -1,6 +1,6 @@
 # Customer Lifetime Value Prediction, Survival Analysis & Segmentation
 
-This project predicts Customer Lifetime Value (CLTV), implements survival analysis, and do customer segmentation for an e-commerce business.
+This project predicts Customer Lifetime Value (CLTV), implements survival analysis and performs customer segmentation for an e-commerce business.
 
 Data: [E-commerce Customer Data](https://www.kaggle.com/datasets/shriyashjagtap/e-commerce-customer-for-behavior-analysis)
 
